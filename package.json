@@ -1,0 +1,16 @@
+{
+  "name": "yields-uniq-selector",
+  "description": "generate a uniq selector of the given element.",
+  "version": "0.0.1",
+  "keywords": [
+    "selector",
+    "uniq",
+    "css",
+    "path"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "yields-indexof": "git://github.com/npmcomponent/yields-indexof.git"
+  },
+  "license": "MIT"
+}

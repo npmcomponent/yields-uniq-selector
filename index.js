@@ -3,7 +3,7 @@
  * dependencies
  */
 
-var index = require('indexof');
+var index = require('yields-indexof');
 
 /**
  * Export `uniq`
